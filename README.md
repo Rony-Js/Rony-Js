@@ -36,47 +36,25 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y descubrir nue
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="  https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
 
-## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" alt="GitHub Streak" />
-</div>
-
----
 
 ## 📌 Proyectos Destacados
 
-<div align="center">
-  <a href="https://github.com/TU_USUARIO/proyecto-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=proyecto-1&theme=radical" />
-  </a>
-  <a href="https://github.com/TU_USUARIO/proyecto-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=proyecto-2&theme=radical" />
-  </a>
-</div>
 
 ---
 
 ## 🏆 Logros y Contribuciones
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</p>
+
 
 ---
 
@@ -111,6 +89,3 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y descubrir nue
   <img src="https://img.shields.io/github/followers/TU_USUARIO?style=social" alt="GitHub followers" />
 </p>
 
----
-
-⭐️ **Recuerda:** Este README es tu carta de presentación. Actualízalo regularmente con tus nuevos proyectos y logros.
