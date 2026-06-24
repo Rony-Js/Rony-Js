@@ -1,8 +1,3 @@
-<h1 align="center">👋 ¡Hola, soy Rony!</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7E6&center=true&vCenter=true&width=435&lines=Programador+Competitivo;Apasionado+por+la+robotica;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <a href="https://twitter.com//Rony_fdominet">
@@ -13,20 +8,17 @@
   </a>
 </p>
 
----
-
-## 🚀 Sobre Mí
+## Sobre Mí
 
 Soy un desarrollador apasionado por crear soluciones innovadoras y descubrir nuevos caminos desde el punto de vista científico. 
 
-- 🔭 Actualmente trabajando en **Doppler Project**
-- 🌱 Mejorando en **Programación Competitiva**
-- 👯 Buscando colaborar en **proyectos que apoyen el desarrollo del "talento" en todas las edades y en todas las areas de las ciencias**
+- Actualmente trabajando en **Doppler Project**
+- Mejorando en **Programación Competitiva**
+- Buscando colaborar en **proyectos que apoyen el desarrollo del "talento" en todas las edades y en todas las areas de las ciencias**
 <!-- - ⚡ Dato curioso: **[Tu dato interesante]**-->
 
----
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -39,18 +31,14 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y descubrir nue
    <img src="https://img.shields.io/badge/PlatformIO-F5822A.svg?style=for-the-badge&logo=platformio&logoColor=white" />
 </p>
 
----
 
-
-
-## 📌 Proyectos Destacados
+## Proyectos Destacados
 
 - Doppler Project: Es una iniciativa de desarrollo local que busca identificar y potenciar el talento joven en nuestra comunidad a través de la informática y la programación competitiva. Actualmente, el proyecto continúa en plena ejecución, consolidándose como un espacio de crecimiento y aprendizaje para las nuevas generaciones.
 
 - Doppler Porject(EN): Is a local development initiative aimed at identifying and nurturing young talent in our community through informatics and competitive programming. The project remains actively underway, steadily growing as a hub for learning and professional development.
----
 
-## 🏆 Logros y Eventos
+## Logros y Eventos
 - **2023**
   - ⋄ Medalla de Oro en el concurso provincial
   - ⋄ Participé en el concurso nacional de informática de Preuniversitario
@@ -73,9 +61,8 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y descubrir nue
   - ⋄ Preselección nacional de informática
   - ⋄ Participé en la Olimpiada Iberoamericana de Informática.
   - ⋄ Medalla de Bronce en la Olimpiada Iberoamericana de Informática.
----
 
-## 📈 Actividad Reciente
+## Actividad Reciente
 
   - Mejorando en competitiva.
   - Entrenando en Codeforces
@@ -83,7 +70,6 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y descubrir nue
 
 <!-- ACTUALIZAR AUTOMÁTICAMENTE CON GITHUB ACTIONS -->
 
----
 
 ---
 
