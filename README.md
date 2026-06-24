@@ -88,7 +88,7 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y descubrir nue
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/TU_USUARIO?style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=Rony-Js&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Rony-Js?style=social" alt="GitHub followers" />
 </p>
 
