@@ -21,7 +21,7 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y descubrir nue
 
 - 🔭 Actualmente trabajando en **Doppler Project**
 - 🌱 Mejorando en **Programación Competitiva**
-- 👯 Buscando colaborar en **proyectos que apoyen el desarrollo del "talento" en todas las edades**
+- 👯 Buscando colaborar en **proyectos que apoyen el desarrollo del "talento" en todas las edades y en todas las areas de las ciencias**
 <!-- - ⚡ Dato curioso: **[Tu dato interesante]**-->
 
 ---
