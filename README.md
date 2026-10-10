@@ -32,8 +32,7 @@ I am a developer. I love to create new solutions and find new ways in science.
 
 ## Recent Activity
 
-  ![](https://raw.githubusercontent.com/rony-js/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/rony-js/cf-stats/main/output/rating.svg)
+  ![Codeforces Stats](./assets/codeforces-stats.svg)
 
   - Improving in competitive programming.
   - Training on Codeforces
