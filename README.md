@@ -29,9 +29,11 @@ I am a developer. I love to create new solutions and find new ways in science.
 
 - Doppler Project (ES): Es una iniciativa de desarrollo local que busca identificar y potenciar el talento joven en nuestra comunidad a través de la informática y la programación competitiva. Actualmente, el proyecto continúa en plena ejecución, consolidándose como un espacio de crecimiento y aprendizaje para las nuevas generaciones.
 
+
 ## Recent Activity
 
-  ![Codeforces Stats](https://raw.github.com/IMRAN-8/Codeforces-stats-card/main/assets/codeforces-stats.svg?v=2&handle=Rony-js)
+  ![](https://raw.githubusercontent.com/rony-js/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/rony-js/cf-stats/main/output/rating.svg)
 
   - Improving in competitive programming.
   - Training on Codeforces
