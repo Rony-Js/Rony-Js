@@ -1,0 +1,46 @@
+<svg width="800" height="320" viewBox="0 0 800 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="320" rx="22" fill="#FFFFFF"/>
+  <rect x="1" y="1" width="798" height="318" rx="22" stroke="#D0D7DE" stroke-width="2"/>
+
+  <!-- Logo barras -->
+  <rect x="55" y="24" width="10" height="30" rx="2" fill="#F7B100"/>
+  <rect x="70" y="14" width="10" height="40" rx="2" fill="#1F8ACB"/>
+  <rect x="85" y="29" width="10" height="25" rx="2" fill="#D9534F"/>
+
+  <text x="112" y="52" fill="#1F2328" font-size="30" font-family="Segoe UI, Arial, sans-serif" font-weight="700">CODEFORCES</text>
+  <text x="30" y="78" fill="#57606A" font-size="14" font-family="Segoe UI, Arial, sans-serif">Competitive Programming Progress</text>
+
+  <!-- Card principal -->
+  <rect x="30" y="95" width="740" height="130" rx="16" fill="#F6F8FA"/>
+  <rect x="30" y="95" width="740" height="130" rx="16" stroke="#D0D7DE"/>
+
+  <text x="55" y="135" fill="#57606A" font-size="15" font-family="Segoe UI, Arial, sans-serif">Name</text>
+  <text x="205" y="135" fill="#1F2328" font-size="17" font-family="Segoe UI, Arial, sans-serif" font-weight="600">Ronelvys Fuentes</text>
+
+  <text x="55" y="165" fill="#57606A" font-size="15" font-family="Segoe UI, Arial, sans-serif">Handle</text>
+  <text x="205" y="165" fill="#0969DA" font-size="17" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Rony-Js</text>
+
+  <text x="55" y="195" fill="#57606A" font-size="15" font-family="Segoe UI, Arial, sans-serif">Friends</text>
+  <text x="205" y="195" fill="#1F2328" font-size="17" font-family="Segoe UI, Arial, sans-serif" font-weight="600">22</text>
+
+  <text x="490" y="135" fill="#57606A" font-size="15" font-family="Segoe UI, Arial, sans-serif">Rating</text>
+  <text x="620" y="135" fill="#808080" font-size="17" font-family="Segoe UI, Arial, sans-serif" font-weight="700">861 (newbie)</text>
+
+  <text x="490" y="165" fill="#57606A" font-size="15" font-family="Segoe UI, Arial, sans-serif">Max Rating</text>
+  <text x="620" y="165" fill="#1F2328" font-size="17" font-family="Segoe UI, Arial, sans-serif" font-weight="600">991 (newbie)</text>
+
+  <text x="490" y="195" fill="#57606A" font-size="15" font-family="Segoe UI, Arial, sans-serif">Solved</text>
+  <text x="620" y="195" fill="#0969DA" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">203</text>
+
+  <!-- Fila 1: racha -->
+  <text x="30" y="252" fill="#57606A" font-size="13" font-family="Segoe UI, Arial, sans-serif">🔥 Streak: 0 days</text>
+
+  <!-- Fila 2: lenguajes -->
+  <text x="30" y="272" fill="#57606A" font-size="13" font-family="Segoe UI, Arial, sans-serif">Top languages: C++ (659)</text>
+
+  <!-- Barra proporcional -->
+  <rect x="30" y="282" width="740" height="6" rx="3" fill="#F7B100"/>
+
+  <!-- Fila 3: updated -->
+  <text x="30" y="308" fill="#57606A" font-size="12" font-family="Segoe UI, Arial, sans-serif">Updated: 2026-10-09 • Keep solving, keep improving.</text>
+</svg>
