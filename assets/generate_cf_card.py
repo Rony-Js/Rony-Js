@@ -138,7 +138,7 @@ def main():
 
     svg = generate_svg(user, solved_count)
 
-    with open("assets/codeforces-stats.svg", "w", encoding="utf-8") as file:
+    with open("codeforces-stats.svg", "w", encoding="utf-8") as file:
         file.write(svg)
 
 
