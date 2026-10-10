@@ -8,8 +8,10 @@ on:
     branches: [main]
     paths:
       - "assets/generate_cf_card.py"
+      - "assets"
       - ".github/workflows/codeforces-card.yml"
-
+      - "/"
+      
 jobs:
   update:
     runs-on: ubuntu-latest
