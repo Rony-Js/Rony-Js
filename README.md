@@ -33,10 +33,7 @@ I am a developer. I love to create new solutions and find new ways in science.
 ## Recent Activity
 
 ![Codeforces Card Dark](https://raw.githubusercontent.com/Rony-Js/Rony-Js/main/assets/codeforces-stats-dark.svg#gh-dark-mode-only)
-![Codeforces Card Light](https://raw.githubusercontent.com/Rony-Js/Rony-Js/main/assets/codeforces-stats-light.svg#gh-light-mode-only)
-
 ![Rating History Dark](https://raw.githubusercontent.com/Rony-Js/Rony-Js/main/assets/codeforces-rating-dark.svg#gh-dark-mode-only)
-![Rating History Light](https://raw.githubusercontent.com/Rony-Js/Rony-Js/main/assets/codeforces-rating-light.svg#gh-light-mode-only)
 
   - Improving in competitive programming.
   - Training on Codeforces
