@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://twitter.com//Rony_fdominet">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -8,68 +7,37 @@
   </a>
 </p>
 
-## Sobre Mí
+## About Me
 
-Soy un desarrollador apasionado por crear soluciones innovadoras y descubrir nuevos caminos desde el punto de vista científico. 
+I am a developer. I love to create new solutions and find new ways in science.
 
-- Actualmente trabajando en **Doppler Project**
-- Mejorando en **Programación Competitiva**
-- Buscando colaborar en **proyectos que apoyen el desarrollo del "talento" en todas las edades y en todas las areas de las ciencias**
-<!-- - ⚡ Dato curioso: **[Tu dato interesante]**-->
+<!-- - Currently working on **Doppler Project** -->
+- Looking to collaborate on **projects that support the development of "talent" at all ages and in all areas of science**
+<!-- - ⚡ Fun fact: **[Your interesting fact]**-->
 
+### Languages:
 
-## Tecnologías y Herramientas
+- Spanish (Native)
+- English (Intermediate)
+- Italian (Basic)
+- Portuguese (Basic)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-   <img src="https://img.shields.io/badge/PlatformIO-F5822A.svg?style=for-the-badge&logo=platformio&logoColor=white" />
-</p>
+## Featured Projects
 
 
-## Proyectos Destacados
+- Doppler Project: It is a local project. It finds and helps young talent in our community. It uses computer science and competitive programming. The project is still active. It is a place for learning and professional growth.
 
-- Doppler Project: Es una iniciativa de desarrollo local que busca identificar y potenciar el talento joven en nuestra comunidad a través de la informática y la programación competitiva. Actualmente, el proyecto continúa en plena ejecución, consolidándose como un espacio de crecimiento y aprendizaje para las nuevas generaciones.
+- Doppler Project (ES): Es una iniciativa de desarrollo local que busca identificar y potenciar el talento joven en nuestra comunidad a través de la informática y la programación competitiva. Actualmente, el proyecto continúa en plena ejecución, consolidándose como un espacio de crecimiento y aprendizaje para las nuevas generaciones.
 
-- Doppler Porject(EN): Is a local development initiative aimed at identifying and nurturing young talent in our community through informatics and competitive programming. The project remains actively underway, steadily growing as a hub for learning and professional development.
+## Recent Activity
 
-## Logros y Eventos
-- **2023**
-  - ⋄ Medalla de Oro en el concurso provincial
-  - ⋄ Participé en el concurso nacional de informática de Preuniversitario
-  - ⋄ Medalla de Plata en la Copa UCI
-  - ⋄ Participé en el ICPC Qualifier
-  - ⋄ Participé en la Copa Regional IPVCE.
-- **2024**
-  - ⋄ Medalla de Oro en el concuro provincial
-  - ⋄ Obtención del Primer Puesto en la Jornada de Sociedades Científicas con un proyecto de robotica basado en materiales reciclables.
-  - ⋄ Obtencion del Segundo Puesto nacional con el mismo proyecto en la Jornada de Sociedades Científicas nacional.
-  - ⋄ Medalla de Plata en el concurso nacional de informática
-  - ⋄ Preselección nacional de informática
-  - ⋄ Medalla de Plata en la Copa UCI
-  - ⋄ Participé en la Olimpiada Internacional de TI
-  - ⋄ Mención en la Olimpiada Internacional de TI
-- **2025**
-  - ⋄ Participé en el ICPC Qualifier
-  - ⋄ Medalla de Oro en el concurso provincial
-  - ⋄ Ejecucion exitosa del Primer proyecto independiente y privado basado en el aprendisaje y la informatica en la ciudad de Cárdenas.
-  - ⋄ Preselección nacional de informática
-  - ⋄ Participé en la Olimpiada Iberoamericana de Informática.
-  - ⋄ Medalla de Bronce en la Olimpiada Iberoamericana de Informática.
+  ![Codeforces Stats](https://raw.github.com/IMRAN-8/Codeforces-stats-card/main/assets/codeforces-stats.svg?v=2&handle=Rony-js)
 
-## Actividad Reciente
+  - Improving in competitive programming.
+  - Training on Codeforces
+  - Bothering my coach
 
-  - Mejorando en competitiva.
-  - Entrenando en Codeforces
-  - Jodiendo a mi entrenador
-
-<!-- ACTUALIZAR AUTOMÁTICAMENTE CON GITHUB ACTIONS -->
-
+<!-- AUTOMATICALLY UPDATE WITH GITHUB ACTIONS -->
 
 ---
 
@@ -77,4 +45,3 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y descubrir nue
   <img src="https://komarev.com/ghpvc/?username=Rony-Js&color=blueviolet&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Rony-Js?style=social" alt="GitHub followers" />
 </p>
-
