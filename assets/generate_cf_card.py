@@ -9,7 +9,7 @@ import requests
 # CONFIGURACIÓN
 # ============================================================
 HANDLE = "Rony-js"
-ASSETS_DIR = Path(".")
+ASSETS_DIR = Path("assets/")
 CACHE_FILE = ASSETS_DIR / ".cache.json"
 CACHE_TTL_HOURS = 6
 
