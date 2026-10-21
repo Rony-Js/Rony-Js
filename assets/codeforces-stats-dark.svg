@@ -36,11 +36,11 @@
   <text x="30" y="252" fill="#8B949E" font-size="13" font-family="Segoe UI, Arial, sans-serif">🔥 Streak: 2 days</text>
 
   <!-- Fila 2: lenguajes -->
-  <text x="30" y="272" fill="#8B949E" font-size="13" font-family="Segoe UI, Arial, sans-serif">Top languages: C++ (690)</text>
+  <text x="30" y="272" fill="#8B949E" font-size="13" font-family="Segoe UI, Arial, sans-serif">Top languages: C++ (695)</text>
 
   <!-- Barra proporcional -->
   <rect x="30" y="282" width="740" height="6" rx="3" fill="#F7B100"/>
 
   <!-- Fila 3: updated -->
-  <text x="30" y="308" fill="#8B949E" font-size="12" font-family="Segoe UI, Arial, sans-serif">Updated: 2026-10-20 • Keep solving, keep improving.</text>
+  <text x="30" y="308" fill="#8B949E" font-size="12" font-family="Segoe UI, Arial, sans-serif">Updated: 2026-10-21 • Keep solving, keep improving.</text>
 </svg>
