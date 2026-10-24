@@ -33,14 +33,14 @@
   <text x="620" y="195" fill="#58A6FF" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">213</text>
 
   <!-- Fila 1: racha -->
-  <text x="30" y="252" fill="#8B949E" font-size="13" font-family="Segoe UI, Arial, sans-serif">🔥 Streak: 0 days</text>
+  <text x="30" y="252" fill="#8B949E" font-size="13" font-family="Segoe UI, Arial, sans-serif">🔥 Streak: 2 days</text>
 
   <!-- Fila 2: lenguajes -->
-  <text x="30" y="272" fill="#8B949E" font-size="13" font-family="Segoe UI, Arial, sans-serif">Top languages: C++ (701)</text>
+  <text x="30" y="272" fill="#8B949E" font-size="13" font-family="Segoe UI, Arial, sans-serif">Top languages: C++ (705)</text>
 
   <!-- Barra proporcional -->
   <rect x="30" y="282" width="740" height="6" rx="3" fill="#F7B100"/>
 
   <!-- Fila 3: updated -->
-  <text x="30" y="308" fill="#8B949E" font-size="12" font-family="Segoe UI, Arial, sans-serif">Updated: 2026-10-23 • Keep solving, keep improving.</text>
+  <text x="30" y="308" fill="#8B949E" font-size="12" font-family="Segoe UI, Arial, sans-serif">Updated: 2026-10-24 • Keep solving, keep improving.</text>
 </svg>
