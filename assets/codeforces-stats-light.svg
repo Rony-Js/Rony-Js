@@ -30,17 +30,17 @@
   <text x="620" y="165" fill="#1F2328" font-size="17" font-family="Segoe UI, Arial, sans-serif" font-weight="600">996 (newbie)</text>
 
   <text x="490" y="195" fill="#57606A" font-size="15" font-family="Segoe UI, Arial, sans-serif">Solved</text>
-  <text x="620" y="195" fill="#0969DA" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">215</text>
+  <text x="620" y="195" fill="#0969DA" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">217</text>
 
   <!-- Fila 1: racha -->
-  <text x="30" y="252" fill="#57606A" font-size="13" font-family="Segoe UI, Arial, sans-serif">🔥 Streak: 1 day</text>
+  <text x="30" y="252" fill="#57606A" font-size="13" font-family="Segoe UI, Arial, sans-serif">🔥 Streak: 2 days</text>
 
   <!-- Fila 2: lenguajes -->
-  <text x="30" y="272" fill="#57606A" font-size="13" font-family="Segoe UI, Arial, sans-serif">Top languages: C++ (710)</text>
+  <text x="30" y="272" fill="#57606A" font-size="13" font-family="Segoe UI, Arial, sans-serif">Top languages: C++ (716)</text>
 
   <!-- Barra proporcional -->
   <rect x="30" y="282" width="740" height="6" rx="3" fill="#F7B100"/>
 
   <!-- Fila 3: updated -->
-  <text x="30" y="308" fill="#57606A" font-size="12" font-family="Segoe UI, Arial, sans-serif">Updated: 2026-10-27 • Keep solving, keep improving.</text>
+  <text x="30" y="308" fill="#57606A" font-size="12" font-family="Segoe UI, Arial, sans-serif">Updated: 2026-10-28 • Keep solving, keep improving.</text>
 </svg>
